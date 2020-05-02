@@ -11,7 +11,7 @@ With functionality of https://github.com/waveshare/e-Paper/tree/master/Arduino/e
 * Two DisplayFrame fuctions.  
   **DisplayFrameFull** . Slow full update of display.  
   **DisplayFrameFast** . Fast partial update of display.  
-*Some speed optimizations 
+* Some speed optimizations 
   
 
 
